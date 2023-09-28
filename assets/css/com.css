@@ -26,18 +26,18 @@ body {
   font-size: 16px;
 
   }
-.corDoHeader {
+.div_imagem_headline{
   display: flex;
-  height: 3em;
-  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
   justify-content: center;
-  align-items: center;
-  background-color: #FFFFFF;
 }
 
-.imagemHeader { 
-  height: 100%;
-  width: 7em;
+.imagem_headline{
+  width: 120%;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .fb-comments {
