@@ -24,20 +24,20 @@
 body {
   margin: 0;
   font-size: 16px;
-  
-}
-.div_imagem_headline{
+
+  }
+.corDoHeader {
   display: flex;
-  margin-left: auto;
-  margin-right: auto;
-  width: 70%;
+  height: 3em;
+  width: 100%;
   justify-content: center;
+  align-items: center;
+  background-color: #FFFFFF;
 }
 
-.imagem_headline{
-  width: 110%;
-  margin-left: auto;
-  margin-right: auto;
+.imagemHeader { 
+  height: 100%;
+  width: 7em;
 }
 
 .fb-comments {
