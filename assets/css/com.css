@@ -25,6 +25,10 @@ body {
   font-size: 16px;
 }
 
+body{ 
+ background="fundo.png"
+}
+
 .fb-comments {
   border: 1px solid #e9ebee;
   border-radius: 3px;
